@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/dotnet-and-visual-studio/.vs
+/dotnet-and-visual-studio/bin
+/dotnet-and-visual-studio/obj
+/dotnet-and-visual-studio/dotnet-and-visual-studio.csproj.user
+/dotnet-and-visual-studio/AppUsingKeyVault.user
+/dotnet-and-visual-studio/Properties/PublishProfiles
+/dotnet-and-vs-code/bin
+/dotnet-and-vs-code/obj
+/dotnet-and-vs-code/dotnet-and-visual-studio.csproj.user
+/dotnet-and-vs-code/AppUsingKeyVault.user
+/dotnet-and-vs-code/Properties/PublishProfiles
