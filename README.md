@@ -131,7 +131,7 @@ Para continuar esse tutorial, siga cada um dos caminhos possíveis:
 - [Desenvolvimento .NET Core com Visual Studio Code](#desenvolvimento-net-core-com-visual-studio-code)
 - [Desenvolvimento Java](#desenvolvimento-java)
 
-O código para cada um dos caminhos acima estão disponíveis, respectivamente, em [/dotnet-and-visual-studio](https://github.com/dtidigitalcrafters/key-vault-and-managed-identity/blob/master/dotnet-and-visual-studio), [/dotnet-and-vs-code](https://github.com/dtidigitalcrafters/key-vault-and-managed-identity/blob/master/dotnet-and-vs-code) e [/java-and-vs-code](https://github.com/dtidigitalcrafters/key-vault-and-managed-identity/blob/master/java-and-vs-code).
+Todo o código para cada um dos caminhos acima estão disponíveis de forma pública no GitHub, respectivamente, em [/dotnet-and-visual-studio](https://github.com/dtidigitalcrafters/key-vault-and-managed-identity/blob/master/dotnet-and-visual-studio), [/dotnet-and-vs-code](https://github.com/dtidigitalcrafters/key-vault-and-managed-identity/blob/master/dotnet-and-vs-code) e [/java-and-vs-code](https://github.com/dtidigitalcrafters/key-vault-and-managed-identity/blob/master/java-and-vs-code).
 
 ### Desenvolvimento .NET Core com Visual Studio
 
