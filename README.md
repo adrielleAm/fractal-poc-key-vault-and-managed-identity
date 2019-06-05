@@ -46,7 +46,7 @@ Observe que não há nenhuma necessidade de informar um id ou senha para acesso 
 
 Mas e para desenvolvermos e testarmos estas soluções localmente? Uma forma seria a criação de uma máquina virtual dentro da Azure para o desenvolvedor, criar um Managed Identity para esta máquina virtual e dar acesso a ela ao Key Vault.
 
-Mas nem sempre essa solução é possível, e às vezes precisamos desenvolver soluções fora do ambiente da Azure. O que fazer então?
+Mas nem sempre essa solução é possível, e às vezes precisamos desenvolver soluções fora do ambiente da Azure. O que fazer?
 
 ### Os diferentes caminhos de desenvolvimento
 
